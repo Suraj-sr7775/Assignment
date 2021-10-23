@@ -1,0 +1,70 @@
+body {
+    box-sizing: border-box;
+    font-family: poppins;
+    padding: 0px;
+    margin: 0px;
+}
+
+.right-container {
+    background: #E5E5E5;
+    height: calc(100vh - 77px);
+}
+
+.header {
+    background: #FFFFFF;
+    height: 77px;
+}
+
+.side-menu {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.08);
+    height: calc(100vh - 77px);
+}
+
+.main-menu-text {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.13em;
+    color: #777A81;
+    height: 50px;
+    padding: 11px;
+}
+
+
+.dashboar-text {
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.055em;
+    color: #000000;
+    height: 50px;
+    padding: 11px;
+}
+
+.user-text {
+    background: rgba(96, 27, 191, 0.1);
+    border-radius: 0px 10px 50px 0px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.055em;
+    color: #641CC0;
+    height: 50px;
+    padding: 11px;
+}
+
+.add-user-btn {
+    background: #641CC0;
+    box-shadow: 0px 4px 12px rgba(100, 28, 192, 0.1);
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.user-text1 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+}
